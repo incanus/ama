@@ -2,7 +2,9 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed)
 
-A way to ask me questions. Life, work, travel, beliefs, whatever. 
+A way to ask me questions. Life, work, travel, beliefs, experiences whatever. 
+
+<a data-flickr-embed="true" data-header="false" data-footer="false" data-context="false"  href="https://www.flickr.com/photos/53237617@N00/6248191925/in/faves-44124368163@N01/" title="Untitled"><img src="https://farm7.staticflickr.com/6224/6248191925_f985e35e68_b.jpg" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 -
 
